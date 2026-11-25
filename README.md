@@ -1,6 +1,6 @@
 # 数字乡村政策分析资料
 
-请打开 [policy_analysis 文件夹](policy_analysis/) 查看政策正文。这里有 29 份初步筛选的 TXT 文本和政策清单 CSV。
+请打开 [policy_analysis 文件夹](https://github.com/UMR127383636/dataforanalysis/tree/main/policy_analysis) 查看政策正文。这里有 29 份初步筛选的 TXT 文本和政策清单 CSV。
 
 清单记录题名、地区、年份、来源及核验备注。新闻报道、明显节选、地方案例及宽泛综合政策已从分析文件夹移除。
 
