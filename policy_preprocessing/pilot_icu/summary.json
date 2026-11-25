@@ -1,0 +1,101 @@
+{
+  "base_stopwords": 85,
+  "optional_stopwords": 61,
+  "synonym_rules": 2,
+  "engine": "icu",
+  "engine_version": "libicuuc.so.76",
+  "documents": 59,
+  "source_hashes_verified": 59,
+  "raw_tokens": 224324,
+  "base_tokens": 153233,
+  "exploratory_tokens": 122698,
+  "exploratory_vocabulary": 4622,
+  "domain_terms": 254,
+  "domain_terms_observed": 249,
+  "domain_matches": 16643,
+  "synthetic_tests_passed": 254,
+  "synthetic_tests": 254,
+  "sample_docs": 12,
+  "top20": [
+    [
+      "农村",
+      1583
+    ],
+    [
+      "农业",
+      1319
+    ],
+    [
+      "平台",
+      1311
+    ],
+    [
+      "数据",
+      1122
+    ],
+    [
+      "乡村",
+      1114
+    ],
+    [
+      "信息",
+      1097
+    ],
+    [
+      "数字化",
+      1002
+    ],
+    [
+      "农产品",
+      922
+    ],
+    [
+      "监测",
+      917
+    ],
+    [
+      "资源",
+      850
+    ],
+    [
+      "生产",
+      845
+    ],
+    [
+      "技术",
+      828
+    ],
+    [
+      "网络",
+      817
+    ],
+    [
+      "企业",
+      723
+    ],
+    [
+      "农业农村",
+      693
+    ],
+    [
+      "基础",
+      645
+    ],
+    [
+      "信息化",
+      644
+    ],
+    [
+      "项目",
+      602
+    ],
+    [
+      "系统",
+      600
+    ],
+    [
+      "主体",
+      599
+    ]
+  ]
+}
