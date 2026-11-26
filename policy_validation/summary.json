@@ -1,0 +1,13 @@
+{
+  "selected_k": 2,
+  "cluster_sizes": {
+    "1": 8,
+    "2": 21
+  },
+  "silhouette": 0.5122690194287034,
+  "seed_ari": 1.0,
+  "input_sha256": {
+    "document_theme_scores.csv": "c3980ee75b3ee4770038e334cc14f2bb9469fc33a167258a873a08326db72841",
+    "strict_document_scores.csv": "161b2a76c25160971a073facb0d956431cc7e2c14103589139e34bf44de13f5a"
+  }
+}
